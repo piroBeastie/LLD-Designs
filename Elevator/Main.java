@@ -20,4 +20,5 @@ public class Main {
 
         System.out.println("After move: " + lifts[0].getCurrentLevel());
     }
+    
 }

@@ -6,7 +6,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // Create seats
         List<Seat> seats = new ArrayList<>();
         for (int i = 1; i <= 5; i++) {
             seats.add(new Seat("S" + i, 1, i));

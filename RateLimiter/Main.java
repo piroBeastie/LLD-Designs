@@ -6,6 +6,7 @@ public class Main {
 
         int maxRequests = 3;
         long windowDuration = 5000; 
+    
 
         RLStrategy strategy = RLFactory.getStrategy("SLIDING");
 
